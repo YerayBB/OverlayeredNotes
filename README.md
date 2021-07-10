@@ -6,7 +6,7 @@ The Installer contains the latest version, optimized to consume less while in ba
 
 How to run it:
 
-1. Download the file Installer.exe.
+1. Download the file Installer.exe from [releases](https://github.com/YerayBB/OverlayeredNotes/releases).
 2. Open the Installer.exe
 3. Once it finishes the installation, just open Overlayered Notes
 
